@@ -1,8 +1,13 @@
 {
+<<<<<<< HEAD
   "presets": ["react", "es2015"],
   "env": {
     "development": {
       "presets": ["react-hmre"]
     }
   }
+=======
+  "stage": 0,
+  "loose": "all"
+>>>>>>> 56a312a546d1f91ffa8de7f5d2982cb173922ba7
 }
